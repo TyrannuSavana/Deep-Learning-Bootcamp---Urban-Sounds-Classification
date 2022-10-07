@@ -1,4 +1,4 @@
-# Global-AI-Hub---Deep-Learning-Bootcamp
+# Deep-Learning-Bootcamp---Urban-Sounds-Classification
 
 This repository includes the sound processing project that I did with my friends at the Deep Learning Bootcamp organized in cooperation with the Global AI Hub and Koç Holding.
 
